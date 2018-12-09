@@ -69,7 +69,7 @@ class CreateProfile extends Component {
 			this.setState({
 				handle: profile.handle,
 				company: profile.company,
-				websit: profile.website,
+				website: profile.website,
 				location: profile.location,
 				status: profile.status,
 				skills: skillsCSV,
